@@ -1,16 +1,10 @@
 ## Hi there 👋
 
-My name is **Testimony Okorie**
+# **I'm Testimony Okorie**
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Dahel's data analytics project
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/testimonyokorie/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I’m a data analyst with a strong focus on business strategy and business growth.
+- I enjoy collecting, cleaning, and analysing datasets to influence strategic business decisions.
+- I’m looking to help businesses make data-driven decisions and collaorate with data architects, data engineers, data analysts, and business analysts across the data ecosytem.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/testimonyokorie/)
+- ⚡ Fun fact: I love building and/or contributing to visionary businesses.
 -->
